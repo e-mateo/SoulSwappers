@@ -1,7 +1,7 @@
 <h1> Soul Swappers </h1>
 <img src = "Images/MainMenu.png">
 <h2><b>Introduction </b></h2>
- Soul Swappers is a cooperative runner shooter on Switch and PC. You incarnate two wizard's souls who share a same body to reach the center of your destroyed tower. To acheive your goals, you should run through the debris of your old home and fight your old tools which came alive magically.
+Soul Swappers is a cooperative runner shooter on Switch and PC. You incarnate two wizard's souls who share the same body to reach the center of your destroyed tower. To achieve your goals, you should run through the debris of your old home and fight your old tools which came alive magically.
 
 Soul Swappers is a project realised on Unreal Engine 4.27 mainly in C++. The project is designed for Nintendo Switch and PC. The people who took part of the project are Lenny Rabinne, Mateo Erbisti, Antoine Mordant and Bryan Bachelet in Isart Digital.
 
