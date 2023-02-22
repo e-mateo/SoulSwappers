@@ -25,7 +25,7 @@ Soul Swappers is a project realised on Unreal Engine 4.27 mainly in C++. The pro
 
 <h2><b> Gameplay :</b> </h2>
 <img src = "Images/ScreenPlay1.png">
-In a run, you control one of the two avatars : the runner and the shooter, respectively represented by the wizard and the spirit. Each player is assigned to a color. This color allows the magician to walk on the platforms with the same color and the spirit to shoot the enemies with the same color. You will have to change roles with your game partner between shooter and runner according to your environnement. To reach the center of your blown up home, you will have to communicate with your partner to be able to progress through the level.
+In a run, you control one of the two avatars : the runner and the shooter, respectively represented by the wizard and the spirit. Each player is assigned to a color. This color allows the magician to walk on the platforms with the same color and the spirit to shoot the enemies with the same color. You will have to change roles with your game partner between shooter and runner according to your environment. To reach the center of your blown-up home, you will have to communicate with your partner to be able to progress through the level.
 <img src = "Images/BluePlayerScreen.png">
 
 The shooter has different weapons : 
