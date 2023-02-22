@@ -5,6 +5,8 @@ Soul Swappers is a cooperative runner shooter on Switch and PC. You incarnate tw
 
 Soul Swappers is a project realised on Unreal Engine 4.27 mainly in C++. The project is designed for Nintendo Switch and PC. The people who took part of the project are Lenny Rabinne, Mateo Erbisti, Antoine Mordant and Bryan Bachelet in Isart Digital.
 
+Link : https://mateo-gp.itch.io/soul-swappers
+
 <h2><b> Controls :</b></h2>
 <ul>
 <li> For the wizard :
