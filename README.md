@@ -40,3 +40,9 @@ The shooter has different weapons :
 <img src = "Images/laserBlue.png">
 <img src = "Images/SwapScreen.png">
 
+<h2><b> Tasks I've worked on: </b> </h2>
+• Asymmetrical local multiplayer implementation
+• Spirit's capacities: Shooting mechanic, Aim Assist (Really useful for the switch version because it was hard to aim well with joy-cons)
+• 3 different weapons: the Magical Beam (a laser that the player needs to charge during a certain amount of time), the Explosive Fireball (a rocket launcher that makes zone damage and can kill multiple enemies at the same time), and the Fire Rain (a weapon firing small fireballs at a fairly high rate)
+• 3D assets integration that we made in Voxel
+• Menus
